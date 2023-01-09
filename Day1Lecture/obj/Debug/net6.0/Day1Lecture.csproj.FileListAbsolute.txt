@@ -1,0 +1,15 @@
+/Users/wilchec/Projects/Day1Lecture/Day1Lecture/bin/Debug/net6.0/Day1Lecture
+/Users/wilchec/Projects/Day1Lecture/Day1Lecture/bin/Debug/net6.0/Day1Lecture.deps.json
+/Users/wilchec/Projects/Day1Lecture/Day1Lecture/bin/Debug/net6.0/Day1Lecture.runtimeconfig.json
+/Users/wilchec/Projects/Day1Lecture/Day1Lecture/bin/Debug/net6.0/Day1Lecture.dll
+/Users/wilchec/Projects/Day1Lecture/Day1Lecture/bin/Debug/net6.0/Day1Lecture.pdb
+/Users/wilchec/Projects/Day1Lecture/Day1Lecture/obj/Debug/net6.0/Day1Lecture.csproj.AssemblyReference.cache
+/Users/wilchec/Projects/Day1Lecture/Day1Lecture/obj/Debug/net6.0/Day1Lecture.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wilchec/Projects/Day1Lecture/Day1Lecture/obj/Debug/net6.0/Day1Lecture.AssemblyInfoInputs.cache
+/Users/wilchec/Projects/Day1Lecture/Day1Lecture/obj/Debug/net6.0/Day1Lecture.AssemblyInfo.cs
+/Users/wilchec/Projects/Day1Lecture/Day1Lecture/obj/Debug/net6.0/Day1Lecture.csproj.CoreCompileInputs.cache
+/Users/wilchec/Projects/Day1Lecture/Day1Lecture/obj/Debug/net6.0/Day1Lecture.dll
+/Users/wilchec/Projects/Day1Lecture/Day1Lecture/obj/Debug/net6.0/refint/Day1Lecture.dll
+/Users/wilchec/Projects/Day1Lecture/Day1Lecture/obj/Debug/net6.0/Day1Lecture.pdb
+/Users/wilchec/Projects/Day1Lecture/Day1Lecture/obj/Debug/net6.0/Day1Lecture.genruntimeconfig.cache
+/Users/wilchec/Projects/Day1Lecture/Day1Lecture/obj/Debug/net6.0/ref/Day1Lecture.dll
